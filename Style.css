@@ -1,0 +1,91 @@
+body{
+    background: rgba(221, 214, 135, 0.836);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.uno{
+    text-align: center;
+    background-image: url(./Multimedia/Fondo-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+table tr td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.Ia2{
+    background-position: center;
+    text-align: center;
+}
+
+.Pagina2{
+    text-align: center;
+    background-image: url(./Multimedia/Fondo-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.Pagina2-1{
+    background-position: center;
+    text-align: center;
+}
+
+.caja{
+    float: left;
+    width: 360px;
+    height: 524px;
+    margin: 8px;
+    border: 2px solid;
+}
+
+.servicio{
+    text-align: center;
+    padding: 5px 0;
+}
+
+.efecto{
+    opacity: 0.9;
+    width: 100%;
+    height: 200px;
+}
+
+.contenido{
+    padding: 20px;
+    text-align: justify;
+}
+
+.App{
+    text-align: center;
+    background-image: url(./Multimedia/Fondo-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.caja-2{
+    margin: 8px;
+    width: 1880px;
+    height: 524px;
+    border: 2px solid;
+    float: left;
+    text-align: center;
+}
+
+.caja-3{
+    float: left;
+    width: 900px;
+    height: 524px;
+    margin: 8px;
+    border: 2px solid;
+}
+
+
+/*rgb(229, 238, 179)*/
+
+
